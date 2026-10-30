@@ -2,7 +2,7 @@
 
 [**IB Studio**](https://www.ibstudio.es/) **es mi proyecto personal de diseño y desarrollo web, creado para ofrecer soluciones digitales a negocios, profesionales y pequeñas empresas.** La web es mi principal herramienta para presentar mis servicios, mostrar proyectos y captar nuevos clientes.
 
-<img width="2048" height="1078" alt="Página de inicio de IB Studio" src="/projects/ib-studio/article-hero.webp" />
+<img width="1502" height="962" alt="Página de inicio de IB Studio" src="/projects/ib-studio/article-hero.webp" />
 
 Me encargué de todo el proceso: planteamiento de la estructura, diseño de la interfaz, desarrollo, adaptación responsive y puesta en producción. El objetivo era crear una experiencia moderna, clara y profesional, cuidando especialmente la navegación, el rendimiento y la conversión de visitantes en potenciales clientes.
 
@@ -23,7 +23,7 @@ Además del desarrollo, me encargué de construir la **identidad visual de IB St
 
 A nivel de desarrollo, construí el proyecto con **Next.js, React y TypeScript**, organizando la interfaz mediante componentes reutilizables para las diferentes secciones, como servicios, proyectos, precios, FAQ y contacto. También incorporé animaciones y pequeños detalles de interacción para conseguir una experiencia más dinámica sin sacrificar rendimiento.
 
-<img width="2048" height="1078" alt="Sección de proyectos de IB Studio" src="/projects/ib-studio/projects.webp" />
+<img width="1502" height="1776" alt="Sección de proyectos de IB Studio" src="/projects/ib-studio/projects.webp" />
 
 El formulario de contacto cuenta además con una parte backend propia: validación de datos, envío automático de correos, protección contra bots y limitación de solicitudes para reducir spam y abuso.
 
@@ -31,6 +31,6 @@ El formulario de contacto cuenta además con una parte backend propia: validaci�
 
 También trabajé aspectos que van más allá del diseño visual, como **SEO técnico, metadatos, datos estructurados y analítica**, con el objetivo de que la web estuviera preparada como un producto real y no únicamente como una demostración visual.
 
-<img width="2048" height="1021" alt="Planes y precios de IB Studio" src="/projects/ib-studio/pricing.webp" />
+<img width="1502" height="864" alt="Planes y precios de IB Studio" src="/projects/ib-studio/pricing.webp" />
 
 IB Studio representa bastante bien mi forma de trabajar: partir de una necesidad real, pensar tanto en el usuario como en los objetivos del negocio y construir una solución cuidada de principio a fin, tanto visual como técnicamente.

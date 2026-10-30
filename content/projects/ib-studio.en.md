@@ -2,7 +2,7 @@
 
 [**IB Studio**](https://www.ibstudio.es/) **is my personal web design and development project, created to offer digital solutions to businesses, professionals, and small companies.** The website is my main tool for presenting my services, showcasing projects, and attracting new clients.
 
-<img width="2048" height="1078" alt="IB Studio homepage" src="/projects/ib-studio/article-hero.webp" />
+<img width="1502" height="962" alt="IB Studio homepage" src="/projects/ib-studio/article-hero.webp" />
 
 I handled the entire process: planning the structure, designing the interface, development, responsive adaptation, and production deployment. The goal was to create a modern, clear, and professional experience, with particular attention to navigation, performance, and converting visitors into potential clients.
 
@@ -23,7 +23,7 @@ Alongside development, I created the **IB Studio visual identity**, including th
 
 I built the project with **Next.js, React, and TypeScript**, organizing the interface through reusable components for sections such as services, projects, pricing, FAQ, and contact. I also incorporated animation and small interaction details to create a more dynamic experience without sacrificing performance.
 
-<img width="2048" height="1078" alt="IB Studio projects section" src="/projects/ib-studio/projects.webp" />
+<img width="1502" height="1776" alt="IB Studio projects section" src="/projects/ib-studio/projects.webp" />
 
 The contact form also has its own backend layer, including data validation, automatic email delivery, bot protection, and request rate limiting to reduce spam and abuse.
 
@@ -31,6 +31,6 @@ The contact form also has its own backend layer, including data validation, auto
 
 I also worked on areas beyond visual design, including **technical SEO, metadata, structured data, and analytics**, so the website would be prepared as a real product rather than only a visual demonstration.
 
-<img width="2048" height="1021" alt="IB Studio plans and pricing" src="/projects/ib-studio/pricing.webp" />
+<img width="1502" height="864" alt="IB Studio plans and pricing" src="/projects/ib-studio/pricing.webp" />
 
 IB Studio reflects how I like to work: starting from a real need, considering both the user and the business goals, and building a polished solution from beginning to end, both visually and technically.

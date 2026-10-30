@@ -26,7 +26,7 @@ El portfolio funciona también como una colección de mis trabajos. Cada proyect
 
 Para ello desarrollé un sistema de **rutas dinámicas con Next.js**, de forma que los proyectos se generan a partir de una estructura de datos común y puedo incorporar nuevos trabajos fácilmente.
 
-Actualmente muestro proyectos de diferentes áreas, desde **aplicaciones nativas para iOS y macOS hasta productos web**, incluyendo Haze, OmniTrack, Tempo e IB Studio.
+Actualmente muestro proyectos de diferentes áreas, desde **aplicaciones nativas para iOS y macOS hasta productos web**, incluyendo Smooth Cursor, OmniTrack, Tempo e IB Studio.
 
 También quería poder explicar algunos proyectos con más profundidad y no limitarme a una imagen y unas cuantas tecnologías.
 

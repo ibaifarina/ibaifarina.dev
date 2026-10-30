@@ -26,7 +26,7 @@ The portfolio also works as a collection of my work. Each project can have its o
 
 To support this, I developed a **dynamic routing system with Next.js** so that projects are generated from a shared data structure and new work can be added easily.
 
-I currently feature projects from different areas, ranging from **native iOS and macOS applications to web products**, including Haze, OmniTrack, Tempo, and IB Studio.
+I currently feature projects from different areas, ranging from **native iOS and macOS applications to web products**, including Smooth Cursor, OmniTrack, Tempo, and IB Studio.
 
 I also wanted to explain some projects in greater depth instead of limiting them to an image and a few technologies.
 

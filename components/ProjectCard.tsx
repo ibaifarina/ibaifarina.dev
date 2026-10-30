@@ -11,6 +11,7 @@ const PROJECT_BACK_KEY = "project-back";
 interface ProjectCardProps {
   slug: string;
   thumbnail: string;
+  hero?: string;
   alt: string;
   title?: string;
   tags: readonly string[];
@@ -35,6 +36,7 @@ function TagList({ tags }: { tags: readonly string[] }) {
 export default function ProjectCard({
   slug,
   thumbnail,
+  hero,
   alt,
   tags,
   featured = false,
@@ -96,7 +98,7 @@ export default function ProjectCard({
       <Image
         data-project-card-image
         priority
-        src={thumbnail}
+        src={featured && hero ? hero : thumbnail}
         alt={alt}
         fill
         sizes={
